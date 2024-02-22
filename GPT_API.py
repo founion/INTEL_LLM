@@ -1,5 +1,3 @@
-import sys
-sys.path.append('/path/to/ffmpeg')
 ##### 기본 정보 입력 #####
 import streamlit as st
 # audiorecorder 패키지 추가
